@@ -119,6 +119,10 @@ This project follows a complete Machine Learning pipeline for binary classificat
    - Decision Tree Classifier
    - Random Forest Classifier
    - Gradient Boosting Classifier
+   - XGBoost Classifier
+   - CatBoost Classifier
+   - Adaboost classifier
+     
 7. **📌 7. Hyperparameter Tuning:** Optimize model performance using `GridSearchCV` and `RandomizedSearchCV`.
 8. **📌 8. Model Evaluation:** Evaluate models using **Accuracy**, **Precision**, **Recall**, **F1-Score**, and **Confusion Matrix**.
 9. **📌 9. Conclusion & Recommendations:** Summarize findings, select the best model balancing recall and precision, and suggest potential deployment strategies.
