@@ -1,0 +1,13 @@
+# Sensitive & Security Files
+.env
+*.json
+*.pem
+*.key
+*.csv
+
+# System & Python Cache
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
