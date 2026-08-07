@@ -1,0 +1,19 @@
+streamlit>=1.38.0
+pandas>=2.2.0
+joblib>=1.4.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+
+# Environment Setup
+
+conda create -n smartfee python=3.10 -y
+conda activate smartfee
+pip install -r requirements.txt
+streamlit run app.py
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
